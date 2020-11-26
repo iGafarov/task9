@@ -29,6 +29,9 @@ public class Swing {
         jFrame.add(jPanel3);
 
 
+        System.out.println("piska");
+
+
 
         /*JButton jButton = new JButton("Salam");
         jButton.addActionListener(new OpenBuilding());
